@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt'
+let g:netrw_dirhist_2='/mnt/d'
+let g:netrw_dirhist_3='/mnt/d/anaconda'
+let g:netrw_dirhist_4='/mnt/d/anaconda/Lib'
